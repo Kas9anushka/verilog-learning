@@ -1,0 +1,144 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1728449094
+Vo_e?EWlfY;`[:@AoX[U3k1
+Z1 04 10 4 work half_adder fast 0
+=1-1091d1f00082-67060a45-264-5bb4
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1728449105
+VHWF<L76eNjC[X8`iYoL9<0
+R1
+=1-1091d1f00082-67060a51-2e-67cc
+o-quiet -auto_acc_if_foreign -work work +acc
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1730200042
+VY@]SaEo]8KaR3Ua4DkLTL2
+04 3 4 work add fast 0
+=1-1091d1f00082-6720c1ea-1cc-b1ac
+R2
+R3
+n@_opt2
+R4
+vadd
+!s110 1730200001
+!i10b 1
+!s100 LTL`RDXofV2m6Wl:;8a6F2
+IefNlbNWm^UKU0;hkg9ZLW0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/kumar/Documents/learning
+w1730199996
+Z7 8C:/Users/kumar/Documents/learning/day1.v
+Z8 FC:/Users/kumar/Documents/learning/day1.v
+L0 2
+Z9 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1730200001.000000
+Z10 !s107 C:/Users/kumar/Documents/learning/day1.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Documents/learning/day1.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vday1
+!s110 1730199987
+!i10b 1
+!s100 j_Pb62R0HJ;3?VZB9c]GP1
+IkiH5AcN9kX[Eij3d7QmzV1
+R5
+R6
+w1730199982
+R7
+R8
+L0 2
+R9
+r1
+!s85 0
+31
+!s108 1730199987.000000
+R10
+R11
+!i113 0
+R12
+R3
+vhalf_adder
+Z13 !s110 1728320979
+!i10b 1
+!s100 SIf7C0L]mmj3>jjj=bY[=1
+IfM[`S_A;dB1Jg:M[KZWJT1
+R5
+Z14 dC:/Users/kumar/Documents/VERILOG FILE
+w1728320521
+8C:/Users/kumar/Documents/VERILOG FILE/halfadder.v
+FC:/Users/kumar/Documents/VERILOG FILE/halfadder.v
+L0 1
+R9
+r1
+!s85 0
+31
+Z15 !s108 1728320979.000000
+!s107 C:/Users/kumar/Documents/VERILOG FILE/halfadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Documents/VERILOG FILE/halfadder.v|
+!i113 0
+R12
+R3
+vhalf_adder_d
+!s110 1730175929
+!i10b 1
+!s100 f6cW5[`HNCXT4RO2GoQUz2
+I;O5?VEBWh`X5VfBRiF]jG3
+R5
+R6
+w1728321393
+8C:/Users/kumar/Documents/learning/please.v
+FC:/Users/kumar/Documents/learning/please.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1730175929.000000
+!s107 C:/Users/kumar/Documents/learning/please.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Documents/learning/please.v|
+!i113 0
+R12
+R3
+vhalfadder_tb
+R13
+!i10b 1
+!s100 <`DLk2OMhTY<2o5<DliY[1
+I8PJzNg;ES^0gl4j8hZ=OJ2
+R5
+R14
+w1728320971
+8C:/Users/kumar/Documents/VERILOG FILE/halfadder_tb.v
+FC:/Users/kumar/Documents/VERILOG FILE/halfadder_tb.v
+L0 1
+R9
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/kumar/Documents/VERILOG FILE/halfadder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Documents/VERILOG FILE/halfadder_tb.v|
+!i113 0
+R12
+R3
